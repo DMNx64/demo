@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  spring:
+    image: "dmnx64/spring-app"
+    ports:
+      - "8080:8080"
+  react:
+    image: "dmnx64/react-app"
+    ports:
+      - "3000:3000"

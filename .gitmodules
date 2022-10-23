@@ -1,0 +1,6 @@
+[submodule "react-app"]
+	path = react-app
+	url = https://github.com/DMNx64/demo.react-app.git
+[submodule "spring-app"]
+	path = spring-app
+	url = https://github.com/DMNx64/demo.spring-app.git
