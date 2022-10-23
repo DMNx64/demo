@@ -4,3 +4,6 @@
 [submodule "spring-app"]
 	path = spring-app
 	url = https://github.com/DMNx64/demo.spring-app.git
+[submodule "go-app"]
+	path = go-app
+	url = https://github.com/DMNx64/demo.go-app.git
